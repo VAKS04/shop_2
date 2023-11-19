@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shop</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <dimen name="name_product">20dp</dimen>
+    <dimen name="desc_product_out">15dp</dimen>
+    <dimen name="price_out">20dp</dimen>
+    <dimen name="image_margin">5dp</dimen>
+</resources>
